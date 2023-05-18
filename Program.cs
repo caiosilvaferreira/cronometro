@@ -54,6 +54,8 @@
                 Console.Clear();
                 currimentTime++;
                 Console.WriteLine(currimentTime);
+
+
                 Thread.Sleep(1000);
             }
 
