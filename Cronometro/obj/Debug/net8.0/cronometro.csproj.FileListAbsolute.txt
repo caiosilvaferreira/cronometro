@@ -1,0 +1,14 @@
+C:\Users\Caio\source\repos\cronometro\bin\Debug\net8.0\cronometro.exe
+C:\Users\Caio\source\repos\cronometro\bin\Debug\net8.0\cronometro.deps.json
+C:\Users\Caio\source\repos\cronometro\bin\Debug\net8.0\cronometro.runtimeconfig.json
+C:\Users\Caio\source\repos\cronometro\bin\Debug\net8.0\cronometro.dll
+C:\Users\Caio\source\repos\cronometro\bin\Debug\net8.0\cronometro.pdb
+C:\Users\Caio\source\repos\cronometro\obj\Debug\net8.0\cronometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caio\source\repos\cronometro\obj\Debug\net8.0\cronometro.AssemblyInfoInputs.cache
+C:\Users\Caio\source\repos\cronometro\obj\Debug\net8.0\cronometro.AssemblyInfo.cs
+C:\Users\Caio\source\repos\cronometro\obj\Debug\net8.0\cronometro.csproj.CoreCompileInputs.cache
+C:\Users\Caio\source\repos\cronometro\obj\Debug\net8.0\cronometro.dll
+C:\Users\Caio\source\repos\cronometro\obj\Debug\net8.0\refint\cronometro.dll
+C:\Users\Caio\source\repos\cronometro\obj\Debug\net8.0\cronometro.pdb
+C:\Users\Caio\source\repos\cronometro\obj\Debug\net8.0\cronometro.genruntimeconfig.cache
+C:\Users\Caio\source\repos\cronometro\obj\Debug\net8.0\ref\cronometro.dll
